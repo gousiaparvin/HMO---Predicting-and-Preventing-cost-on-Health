@@ -155,4 +155,6 @@ To further explore and interact with the best model, we've developed a user-frie
 <br>
 1. treeModel.csv (Sample Input File)
 2. HMO_TEST_data_sample_solution.csv <br>
-![image](http
+
+(![image](https://github.com/gousiashaik/Healthcare-Cost-Prediction/raw/main/gousiashaik.shinyapps.io_Gousiashaik_.png)
+
