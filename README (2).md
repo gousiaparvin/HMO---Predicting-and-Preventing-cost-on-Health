@@ -149,7 +149,9 @@ The Decision Tree model provides the best balance of accuracy and sensitivity fo
 
 ## Shiny Application
 To further explore and interact with the best model, we've developed a user-friendly Shiny application. This web app allows you to input individual characteristics (age, BMI, smoking status, etc.) and instantly see the predicted future healthcare cost category ("expensive" or "not expensive"). Access the Shiny app to test the model yourself and gain a deeper understanding of potential healthcare expenses!
-***Shiny Application link*** : <a href = "https://doshiharmish.shinyapps.io/Project_Final_ShinyApp/"> HMO-Healthcare-Cost-Prediction </a>
+***Shiny Application link*** : <a href = "https://gousiashaik.shinyapps.io/Gousiashaik/""> HMO-Healthcare-Cost-Prediction </a>
+![image](https://github.com/user-attachments/assets/8e5c0daf-265f-4ea2-a077-67042ec501f4)
+"> HMO-Healthcare-Cost-Prediction </a>
 <br>***Files to be used***:
 <br>
 1. treeModel.csv (Sample Input File)
